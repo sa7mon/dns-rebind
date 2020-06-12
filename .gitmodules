@@ -1,0 +1,3 @@
+[submodule "singularity"]
+	path = singularity
+	url = git@github.com:nccgroup/singularity.git
